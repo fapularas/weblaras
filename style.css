@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 10px 5px 15px 20px;
+}
+/* Style the header */
+.header {
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 9px;  
+}
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: #fb9292;
+}
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #203652;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 0px 115px;
+    text-decoration: none;
+    font-style: oblique;
+
+}
+/* Change color on hover */
+.topnav a:hover {
+    background-color: #eee;
+    color: black;
+}
+h2{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 30px;
+    font-size: 27px;
+    line-height: 75px;
+}
+p{
+  line-height: 30px;
+}
+#teks1 {
+    font-style:initial;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+#teks2 {
+    font-style:initial;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#fapu1 {
+    font-style: italic;
+    color: #203652;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+#fapu2 {
+    font-style: italic;
+    color: #203652;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fapu3{
+    font-style: italic;
+    color: #203652;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fapu4{
+    font-style: italic;
+    color: #203652;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#fapu5{
+    font-style: italic;
+    color: #203652;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#yutub{
+    width: 620px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+span {
+    background-color: #fb9292;
+}
