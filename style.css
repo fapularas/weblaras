@@ -14,6 +14,8 @@ body {
 .topnav {
     overflow: hidden;
     background-color: #fb9292;
+    margin-right: 10px;
+    margin-right: 10px;
 }
 /* Style the topnav links */
 .topnav a {
@@ -41,19 +43,15 @@ h2{
 }
 p{
   line-height: 30px;
+  text-align: justify;
+  margin-left: 10px;
+  margin-right: 10px;
 }
-#teks1 {
-    font-style:initial;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
-}
-#teks2 {
-    font-style:initial;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+
 #fapu1 {
     font-style: italic;
     color: #203652;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
 }
 #fapu2 {
     font-style: italic;
@@ -69,11 +67,30 @@ p{
     font-style: italic;
     color: #203652;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 #fapu5{
     font-style: italic;
     color: #203652;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#ilus1{
+    font-style: italic;
+    color: #203652;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#teks2 {
+    font-style:initial;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 50px;
+}
+#teks1 {
+    font-style:initial;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 50px;
+}
+#plants{
+    padding: 10px;
 }
 #yutub{
     width: 620px;
@@ -84,4 +101,17 @@ p{
 }
 span {
     background-color: #fb9292;
+}
+/* ini adalah buat footer */
+#footer{
+    /*position: fixed; */
+    background-color: #fb9292;
+    text-align: center;
+    font-style: italic;
+    color: #203652;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+#pict {
+    display: table;
+    margin: 0 auto;
 }
